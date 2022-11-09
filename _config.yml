@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Kyle MacLaughlin's Blog"
-email: "kylemaclaughlin@gmail.com"
+email: kylemaclaughlin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I will write blog posts here, often relating to machine learning.
-domain: "kmacl.github.io"
+domain: kmacl.github.io
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kmacl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://kmacl.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  kmacl
 
